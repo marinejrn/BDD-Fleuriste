@@ -33,3 +33,5 @@ Ce projet est une interface pour une chaîne de magasins de fleuristes, avec des
 Avant de commencer, assurez-vous d'avoir installé :
 
 - **Une base de données** (comme MySQL ou MongoDB) configurée.
+- **Telecharger et implémenter votre base de données**: [BDD Fleuriste](Script_Fleuriste.sql)
+
